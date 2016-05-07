@@ -16,3 +16,12 @@ Original game is widely listed as 'abandonware', e.g.
 http://www.myabandonware.com/game/magicland-dizzy-1up
 
 This tilemap is distributed without attribution with Java gamelib2 library.
+
+# gameart2d 'Desert'
+
+![screenshot](screenshots/gameart2d-desert.png)
+
+Using the free tile set from:
+http://www.gameart2d.com/free-desert-platformer-tileset.html
+
+Map uses 128x128 tiles.
