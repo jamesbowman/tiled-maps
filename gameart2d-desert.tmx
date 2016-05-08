@@ -2,9 +2,16 @@
 <map version="1.0" orientation="orthogonal" renderorder="right-down" width="120" height="18" tilewidth="128" tileheight="128" nextobjectid="1">
  <tileset firstgid="1" name="gameart2d-desert" tilewidth="128" tileheight="128" tilecount="40" columns="5">
   <image source="gameart2d-desert.png" width="640" height="1024"/>
- </tileset>
- <tileset firstgid="41" name="level25-Tileset" tilewidth="16" tileheight="16" tilecount="288" columns="24">
-  <image source="../gd2-lib/prep-gd3/level25-Tileset.png" width="384" height="192"/>
+  <tile id="2">
+   <properties>
+    <property name="type" type="int" value="1"/>
+   </properties>
+  </tile>
+  <tile id="7">
+   <properties>
+    <property name="type" type="int" value="1"/>
+   </properties>
+  </tile>
  </tileset>
  <layer name="background" width="120" height="18">
   <data encoding="csv">
