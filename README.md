@@ -25,3 +25,12 @@ Using the free tile set from:
 http://www.gameart2d.com/free-desert-platformer-tileset.html
 
 Map uses 128x128 tiles.
+
+# level25
+
+![screenshot](screenshots/level25.png)
+
+Space themed level, four-color (Gameboy)
+
+Map uses 16x16 tiles, map size is 2720x384.
+
